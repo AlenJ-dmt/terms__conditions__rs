@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Poppins';
+    padding: 0;
+    margin: 0;
+}
+
+#list{
+    text-align: left;
+}
+ol{
+    margin: 0 auto;
+    padding: 30px;
+}
+li{
+    margin: 10px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+header{
+   text-align: center;
+    position: relative;
+    display: inline-block;
+}
