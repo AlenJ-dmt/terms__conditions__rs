@@ -26,3 +26,15 @@ header{
     position: relative;
     display: inline-block;
 }
+
+@media screen and (min-width: 480px) {
+    ol {
+      width: 80%;
+    }
+  }
+
+  @media screen and (min-width: 720px) {
+    ol {
+      width: 70%;
+    }
+  }
